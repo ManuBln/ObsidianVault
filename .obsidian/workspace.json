@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Certificaciones/BSCP/API testing/LABS.md",
+                "file": "Hacking/Certificaciones/BSCP/LABS.md",
                 "mode": "source",
                 "source": false
               },
@@ -170,13 +170,16 @@
   },
   "active": "4cd26ef3274bb286",
   "lastOpenFiles": [
+    "Hacking/Certificaciones/BSCP/OS command injection/LABS.md",
+    "Hacking/Certificaciones/BSCP/LABS.md",
+    "Hacking/Certificaciones/BSCP/API testing/LABS.md",
+    "Hacking/Certificaciones/BSCP/OS command injection",
     "Hacking/Hacking/General/GENERAL/PERSONALIZACION KALI.md",
     "Hacking/Hacking/General/GENERAL/GENERAL.md",
     "Hacking/Hacking/General/GENERAL/EXTENSIONES.md",
     "Hacking/Hacking/General/GENERAL/CIBERSEGURIDAD CURSOS OPENWEBINARS.md",
     "Hacking/Hacking/General/EJPT/HTB/Windows Machines/Devel/Devel.md",
     "Hacking/Hacking/General/EJPT/eJPT.md",
-    "Hacking/Certificaciones/BSCP/API testing/LABS.md",
     "Hacking/Certificaciones/Welcome.md",
     "Hacking/Certificaciones/BSCP/API testing",
     "Hacking/Certificaciones/BSCP",
